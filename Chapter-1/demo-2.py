@@ -3,6 +3,7 @@ def do_foo(x, y):
 
 def do_bar(s):
   print('bar', s)
+  
 
 records = [
   ('foo', 1, 2),
